@@ -17,8 +17,11 @@ This is the hardest question because I am not sure about my future intentions ye
 ------------------------------------------
 
 ## Git Collaboration
-![Lesson2] (/task_git_collaboration/GitHub&Collaboration.jpg)
-![Lesson3] (/task_git_collaboration/Version Control with Git)
+
+![Lesson2] (https://github.com/nataliereshetnikova/kottans-frontend/blob/master/task_git_collaboration/GitHub&Collaboration.jpg)
+
+![Lesson3] (https://github.com/nataliereshetnikova/kottans-frontend/blob/master/task_git_collaboration/Version Control with Git)
+
 # what was new to me
 Pretty much from the content of this part repetes the very first part on Udacity, but it feels like repeating is important to get used to using version control system.
 
