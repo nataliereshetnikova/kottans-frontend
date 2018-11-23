@@ -13,3 +13,17 @@ ALso, it is so great that such a high-quality free resourse avaible online to le
 # what I am intend to use in future
 This is the hardest question because I am not sure about my future intentions yet on where to use all this stuff)
 ![concert](https://i.gifer.com/AP8k.gif)
+
+------------------------------------------
+
+## Git Collaboration
+![Lesson2] (/task_git_collaboration/GitHub&Collaboration.jpg)
+![Lesson3] (/task_git_collaboration/Version Control with Git)
+# what was new to me
+Pretty much from the content of this part repetes the very first part on Udacity, but it feels like repeating is important to get used to using version control system.
+
+# what surprised me
+Really loved the way on how the difficult stuff is explained in simple words.
+
+# what I am intend to use in future
+I guess the knowledge is applicable for day-to-day use.
