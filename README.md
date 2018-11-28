@@ -17,8 +17,11 @@ This is the hardest question because I am not sure about my future intentions ye
 ------------------------------------------
 
 ## Git Collaboration
-![Lesson2] (/task_git_collaboration/GitHub&Collaboration.jpg)
-![Lesson3] (/task_git_collaboration/Version Control with Git)
+
+![Lesson2](https://github.com/nataliereshetnikova/kottans-frontend/blob/master/task_git_collaboration/GitHub%26Collaboration.jpg)
+
+![Lesson3](https://github.com/nataliereshetnikova/kottans-frontend/blob/master/task_git_collaboration/Version%20Control%20with%20Git.jpg)
+
 # what was new to me
 Pretty much from the content of this part repetes the very first part on Udacity, but it feels like repeating is important to get used to using version control system.
 
@@ -27,3 +30,23 @@ Really loved the way on how the difficult stuff is explained in simple words.
 
 # what I am intend to use in future
 I guess the knowledge is applicable for day-to-day use.
+
+-----------------------------------------------------
+
+## Intro to HTML and CSS
+
+![Lesson4](https://github.com/nataliereshetnikova/kottans-frontend/blob/master/task%html%css%intro/html.jpg)
+
+![Lesson5](https://github.com/nataliereshetnikova/kottans-frontend/blob/master/task%html%css%intro/css.jpg)
+
+# what was new to me
+Next tags from html and css course were new to me:
+tag <input> with type hidden.
+!important key word
+
+# what surprised me
+Really loved the interactive and interesting way of learning.
+
+# what I am intend to use in future
+It is a platform fot the future battles.
+![concert](https://i.gifer.com/AP8k.gif)
