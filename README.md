@@ -49,4 +49,3 @@ Really loved the interactive and interesting way of learning.
 
 # what I am intend to use in future
 It is a platform fot the future battles.
-![concert](https://i.gifer.com/AP8k.gif)
