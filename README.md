@@ -35,9 +35,9 @@ I guess the knowledge is applicable for day-to-day use.
 
 ## Intro to HTML and CSS
 
-![Lesson4](https://github.com/nataliereshetnikova/kottans-frontend/blob/master/task%html%css%intro/html.jpg)
+![Lesson4](https://github.com/nataliereshetnikova/kottans-frontend/blob/master/task_html_css_intro/html.jpg)
 
-![Lesson5](https://github.com/nataliereshetnikova/kottans-frontend/blob/master/task%html%css%intro/css.jpg)
+![Lesson5](https://github.com/nataliereshetnikova/kottans-frontend/blob/master/task_html_css_intro/css.jpg)
 
 # what was new to me
 Next tags from html and css course were new to me:
