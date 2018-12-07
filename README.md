@@ -54,9 +54,9 @@ It is a platform fot the future battles.
 
 ## Responsive Web Design
 
-![Lesson6](https://github.com/nataliereshetnikova/kottans-frontend/blob/master/task%resposive%web%design/Responsive_Web_Design_Fundamentals.jpg)
+![Lesson6](https://github.com/nataliereshetnikova/kottans-frontend/blob/master/task_responsive_web_design/Responsive_Web_Design_Fundamentals.jpg)
 
-![Lesson7](https://github.com/nataliereshetnikova/kottans-frontend/blob/master/task%resposive%web%design/flexbox_froggy.jpg)
+![Lesson7](https://github.com/nataliereshetnikova/kottans-frontend/blob/master/task_responsive_web_design/flexbox_froggy.jpg)
 
 # what was new to me
 I have never heard before about viewport
