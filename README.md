@@ -49,3 +49,20 @@ Really loved the interactive and interesting way of learning.
 
 # what I am intend to use in future
 It is a platform fot the future battles.
+
+-------------------------------------------------------
+
+## Responsive Web Design
+
+![Lesson6](https://github.com/nataliereshetnikova/kottans-frontend/blob/master/task%resposive%web%design/Responsive_Web_Design_Fundamentals.jpg)
+
+![Lesson7](https://github.com/nataliereshetnikova/kottans-frontend/blob/master/task%resposive%web%design/flexbox_froggy.jpg)
+
+# what was new to me
+I have never heard before about viewport
+
+# what surprised me
+So fun to learn through the game
+
+# what I am intend to use in future
+I am going to proceed with flexbox, it's an amazing instrument!
