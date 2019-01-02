@@ -83,3 +83,20 @@ Really liked freecodecamp challenges, though they are not simple.
 
 # what I am intend to use in future
 Want to deep my knowledge in Vannila JS.
+
+-------------------------------------------------------
+
+## DOM
+
+![Lesson8](https://github.com/nataliereshetnikova/kottans-frontend/blob/master/task_js_dom/udacity_dom.jpg)
+
+![Lesson9](https://github.com/nataliereshetnikova/kottans-frontend/blob/master/task_js_dom/freecodecamp.jpg)
+
+# what was new to me
+My first GitHubPages Project!
+
+# what surprised me
+This part was the most challenging so far
+
+# what I am intend to use in future
+Manipulating DOM.
