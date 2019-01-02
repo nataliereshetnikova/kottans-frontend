@@ -71,9 +71,9 @@ I am going to proceed with flexbox, it's an amazing instrument!
 
 ## JavaScript Basics
 
-![Lesson8](https://github.com/nataliereshetnikova/kottans-frontend/blob/master/ttask%js%basics/intro_to_js.jpg)
+![Lesson8](https://github.com/nataliereshetnikova/kottans-frontend/blob/master/task_js_basics/intro_to_js.jpg)
 
-![Lesson9](https://github.com/nataliereshetnikova/kottans-frontend/blob/master/task%js%basics/freecodecamp_Algorithm_Scripting_Challenges.jpg)
+![Lesson9](https://github.com/nataliereshetnikova/kottans-frontend/blob/master/task_js_basics/freecodecamp_Algorithm_Scripting_Challenges.jpg)
 
 # what was new to me
 Array methods charCodeAt and splice were new to me.
